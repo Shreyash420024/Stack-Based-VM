@@ -1,0 +1,17 @@
+instruction to add 20 and 30 in stack based interpreter
+
+114
+11E
+4
+8
+
+instruction to add 20 and 30 in regester based interpreter
+
+1014
+111E
+2201
+0000
+
+
+
+percent reduction in instruction length in this case is 50%

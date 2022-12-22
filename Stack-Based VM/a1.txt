@@ -1,0 +1,5 @@
+push 12
+push 1
+sub
+print
+quit
